@@ -1,4 +1,6 @@
 # "雙北房價預測"專案運用到的資料蒐集
+### 使用的套件
+* Requests、BS4、Selenium
 ### 網站
 * 使用Python的Selenium控制瀏覽器取得特定資料
   * [內政部不動產交易網](https://plvr.land.moi.gov.tw/DownloadOpenData "link")
